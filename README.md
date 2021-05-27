@@ -1,15 +1,4 @@
-## Team2_CSYE7245_Spring2021
-
 ## Big Data Systems and Int Analytics
-
-
-## Team Information
-
-| NAME              |     NUID        |
-|------------------ |-----------------|
-|   [Tanvi Gurav](https://www.linkedin.com/in/tanvigurav/)     |   001306848     |
-|   [Keerti Ojha](https://www.linkedin.com/in/keertiojha/)     |   001050173     |
-| [Priyanka Malpekar](https://www.linkedin.com/in/priyankamalpekar6/) |   001302741     |
 
 ## CLAT Link
 
